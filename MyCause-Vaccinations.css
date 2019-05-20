@@ -1,0 +1,152 @@
+/*
+* Emma Philbin
+* 19 May 2019
+* My Cause-Why you should get vaccinated
+*/
+
+/* The universal selector */
+
+* { 
+    margin: 0;
+    padding: 0;   
+}
+
+/* Body attributes here */
+
+body {
+    width: 95%;
+    margin: auto;
+}
+
+/* the paragraphs color and font-size */
+p {
+    color: mediumpurple;
+    font-size: 135%;
+}
+
+/* the header's color, text-alignment, and border information */
+header {
+    color: lightgreen;
+    text-align: center;
+    border-bottom: 5px solid;
+    border-bottom-color: lightgreen;
+    padding: 10px;
+    width: auto;
+    height: auto; 
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+/* the main's font-family */
+main {
+    font-family: sans-serif;
+}
+
+/* h2's border information */
+h2 {
+    border
+    padding: 10px;
+    width: auto;
+    height: auto; 
+    margin: 10px;
+    color: skyblue;
+}
+
+/* image of a nurse and boy's border and float information */
+#running {
+      float: left;             
+      border: 5px dotted; 
+      border-color: hotpink;
+      padding: 5px;
+      width: 250px;
+      height: 250px;
+      margin: 15px;
+}
+
+/* class of the four images across the middle of the page and their float and border information */
+.vaccination {
+      float: left;              
+      border: 5px dashed; 
+      border-color:peachpuff;
+      padding: 5px;
+      width: 280px;
+      height: 250px;
+      margin: 20px;
+}
+
+.vaccination {
+      float: left;              
+      border: 5px dashed; 
+      border-color:peachpuff;
+      padding: 5px;
+      width: 280px;
+      height: 250px;
+      margin: 20px;
+}
+
+.vaccination {
+      float: left;              
+      border: 5px dashed; 
+      border-color:peachpuff;
+      padding: 5px;
+      width: 280px;
+      height: 250px;
+      margin: 20px;
+}
+
+.vaccination {
+      float: left;              
+      border: 5px dashed; 
+      border-color:peachpuff;
+      padding: 5px;
+      width: 280px;
+      height: 250px;
+      margin: 20px;
+}
+
+/* image of a needle and it's border and float information */
+#needle  {
+      float: right;             
+      border: 5px dotted; 
+      border-color: hotpink;
+      padding: 5px;
+      width: 250px;
+      height: 250px;
+      margin: 15px;
+}
+
+footer {
+    border-top: 5px solid;
+    border-top-color: lightgreen;
+    padding: 5px;
+    width: auto;
+    height: auto; 
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+h3 {
+    padding: 5px;
+    width: auto;
+    height: auto; 
+    margin: 5px;
+    color: lightgreen;
+}
+ 
+nav { 
+    color: lightgreen;
+    text-decoration: underline;
+}
+
+ul, li {
+    list-style-position: inside;
+}
+
+h4 {
+   color: lightgreen;
+   float: right;
+}
+
+
+
+
