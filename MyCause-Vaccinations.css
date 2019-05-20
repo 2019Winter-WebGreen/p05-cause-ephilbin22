@@ -13,6 +13,7 @@
 
 /* Body attributes here */
 
+/* the body and its width and margin information */
 body {
     width: 95%;
     margin: auto;
@@ -74,37 +75,7 @@ h2 {
       margin: 20px;
 }
 
-.vaccination {
-      float: left;              
-      border: 5px dashed; 
-      border-color:peachpuff;
-      padding: 5px;
-      width: 280px;
-      height: 250px;
-      margin: 20px;
-}
-
-.vaccination {
-      float: left;              
-      border: 5px dashed; 
-      border-color:peachpuff;
-      padding: 5px;
-      width: 280px;
-      height: 250px;
-      margin: 20px;
-}
-
-.vaccination {
-      float: left;              
-      border: 5px dashed; 
-      border-color:peachpuff;
-      padding: 5px;
-      width: 280px;
-      height: 250px;
-      margin: 20px;
-}
-
-/* image of a needle and it's border and float information */
+/* image of a needle and its border and float information */
 #needle  {
       float: right;             
       border: 5px dotted; 
@@ -115,6 +86,7 @@ h2 {
       margin: 15px;
 }
 
+/* the footer and its border and font-family information */
 footer {
     border-top: 5px solid;
     border-top-color: lightgreen;
@@ -125,7 +97,9 @@ footer {
     font-family: sans-serif;
 }
 
+/* h3 and it border and color */
 h3 {
+    border
     padding: 5px;
     width: auto;
     height: auto; 
@@ -133,18 +107,22 @@ h3 {
     color: lightgreen;
 }
  
+/* the nav and its color and text-decoration */
 nav { 
     color: lightgreen;
     text-decoration: underline;
 }
 
+/* the ul's postion */
 ul, li {
     list-style-position: inside;
 }
 
+/* h4 and its color and float information */
 h4 {
    color: lightgreen;
    float: right;
+   font-style: italic;
 }
 
 
